@@ -64,6 +64,14 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   cursor: pointer;
 }
 
+.arrow-right span {
+  color: #fff;
+}
+
+.arrow-left span {
+  color: #fff;
+}
+
 .header__login {
   display: flex;
   align-items: center;

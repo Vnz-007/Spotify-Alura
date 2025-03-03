@@ -17,7 +17,8 @@
 }
 
 .sidebar .logo img {
-  width: 5rem; /* 80px para rem */
+  width: 1rem; /* 80px para rem */
+  height: 10px;
 }
 
 .sidebar__navigation {

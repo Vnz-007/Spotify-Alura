@@ -148,7 +148,7 @@
 .offer__list-item {
   display: grid; /* define o modelo de layout do elemento como uma grade */
   justify-items: center;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; /* número de colunas na grade e a largura de cada coluna */
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* número de colunas na grade e a largura de cada coluna */
   gap: 1rem;
   margin-bottom: 1rem;
 }
