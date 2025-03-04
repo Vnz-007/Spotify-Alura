@@ -5,16 +5,6 @@
 > Projeto baseado nas aulas da Imersão Front-end|Alura; <br>
 > Desenvolvido com as linguagens usadas nas aulas. (01/02/2025)
 
-<div align="center">
-
-   <img width="50" src="./src/estilização/HTML5.png">
-   <img width="50" src="./src/estilização/CSS3.png">
-   <img width="50" src="./src/estilização/JS6.png">
-   <img width="50" src="./src/estilização/React.png">
-   <img width="50" src="./src/estilização/Node.js.png">
-
-</div>
-
 ## 💻 Composição formada pelas linguagens: 💻
 > #### HTML5 🔴
 • Para Estruturação da Página;
