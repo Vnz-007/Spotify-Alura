@@ -1,3 +1,5 @@
+https://vnz-007.github.io/Spotify-Alura/
+
 # 🔍 O que é este Projeto? 🔍
 > Meu primeiro projeto oficial, finalizado 85%; <br>
 > Criado pelo celular (RealMe C53); <br>
